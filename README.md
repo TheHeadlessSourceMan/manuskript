@@ -1,7 +1,9 @@
-# Manuskript
+# Manuskript_x
 
-[Manuskript](http://www.theologeek.ch/manuskript) is an open-source
+This is my own EXPERIMENTAL fork of [Manuskript](http://www.theologeek.ch/manuskript), an open-source
 tool for writers.
+
+## if you are trying to download this, you are probably wrong.  Use [the official version](http://www.theologeek.ch/manuskript) instead.
 
 Manuskript runs on on GNU/Linux, Mac OS X, and Windows.
 
